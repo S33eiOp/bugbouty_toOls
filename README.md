@@ -1,4 +1,4 @@
-# bugbouty_toOls
+# bugbounty_toOls
  My personal arsenal of tools, scripts, and payloads for bug bounty and pentesting.
 cat <<EOF > README.md
 # 🐱 Bug Bounty Tools by S33eiOp
